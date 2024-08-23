@@ -1,7 +1,3 @@
-Creating a README file for your GitHub repository is a great way to explain your project and guide users on how to use it. Here’s a template you can use for your **Email Spam Classification** project:
-
----
-
 # Email Spam Classification
 
 This project is a web application built using Streamlit that classifies emails as either "Spam" or "Not Spam". The classification model is based on machine learning techniques and is trained to recognize patterns in text data that are indicative of spam.
