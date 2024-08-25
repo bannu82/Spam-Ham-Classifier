@@ -15,7 +15,7 @@ This project is a web application built using Streamlit that classifies emails a
 
 To run this project locally, follow these steps:
 
-## Example
+## Screenshots
 
 ![App Screenshot](Screenshots/spam1.png)
 
