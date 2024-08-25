@@ -18,7 +18,7 @@ try:
 except Exception as e:
     st.error(f"Error loading model: {e}")
 
-st.title("Email | Spam Classification")
+st.title("Spam Ham Classification")
 
 # Text area for input
 input_sms = st.text_area("Enter Mail to classify", placeholder="Type your email here...")
