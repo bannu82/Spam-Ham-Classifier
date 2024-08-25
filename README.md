@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 ## Example
 
-![App Screenshot](Screenshot/spam1.png)
+![App Screenshot](Screenshots/spam1.png)
 
 
 ![App Screenshot](Screenshot/spam2.png)
