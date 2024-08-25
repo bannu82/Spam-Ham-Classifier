@@ -20,10 +20,10 @@ To run this project locally, follow these steps:
 ![App Screenshot](Screenshots/spam1.png)
 
 
-![App Screenshot](Screenshot/spam2.png)
+![App Screenshot](Screenshots/spam2.png)
 
 
-![App Screenshot](Screenshot/spam3.png)
+![App Screenshot](Screenshots/spam3.png)
 
 
 1. **Clone the repository:**
